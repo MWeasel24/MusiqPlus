@@ -1,5 +1,11 @@
 # Musiq+ – Sistema de recomendação por conteúdo (Músicas)
 
+## Equipe:
+- **Daniel Nazário**
+- **Guilhermo Aguiar Ferreira**
+- **Herbert Macêdo Júnior**
+- **Matheus Martins Rodrigues**
+
 ## Objetivo
 
 Desenvolver um sistema de recomendação de músicas usando **filtragem baseada em conteúdo**, com:
