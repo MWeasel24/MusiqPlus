@@ -142,6 +142,8 @@ sim = cosine_similarity(profile.reshape(1, -1), v_item.reshape(1, -1))[0, 0]
 
 As músicas são ordenadas em ordem decrescente de similaridade, e as top_k são retornadas como recomendações.
 
+Para acelerar o cálculo de similaridade usamos **joblib.Parallel**.
+
 ## Cálculo de Precision, Recall e F1-score
 
 As métricas são calculadas usando:
